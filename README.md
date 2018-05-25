@@ -1,6 +1,6 @@
 # Learn Kubernetes with exercises
 
-In this repository you will find 5 exercises that will help you learn Kubernetes.
+In this repository, you will find 5 exercises that will help you learn Kubernetes.
 
 You will start by deploying a simple MySQL container on a Kubernetes cluster then add capabilities until having a full WordPress web application deployed that has resiliencies to container restarts or outages.
 
